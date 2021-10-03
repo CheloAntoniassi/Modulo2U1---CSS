@@ -11,4 +11,19 @@ h5{
     color: rgba(194, 88, 70, 0.767);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 150%;
+    font-family: 'Arima Madurai', cursive;
 }
+.contacto{
+    color: black;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 150%;
+    padding: 250px;
+}
+p{
+    margin: 0;
+}
+.face{
+    color: blue;
+    font-size: 25px;
+}
+/* font-family: 'Arima Madurai', cursive;*/
